@@ -3,13 +3,15 @@
 1. OOP WITH ES Classes
 
    - OOP 핵심 개념
-   - 캡슐화(Encapsulation)
-   - 상속(Inheritance)
-   - 다형성(polymorphism)
-   - 추상화(abstraction)
+
+     - 캡슐화(Encapsulation)
+     - 상속(Inheritance)
+     - 다형성(polymorphism)
+     - 추상화(abstraction)
+
    - 좋은 OOP
-   - 역할과 책임
-   - 높은 응집도(high cohesion), 낮은 결합도(loose coupling)
+     - 역할과 책임
+     - 높은 응집도(high cohesion), 낮은 결합도(loose coupling)
 
 2. JavaScript에서 객체나누기는 어떻게 해야할까?
 
