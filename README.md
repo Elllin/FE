@@ -9,4 +9,4 @@
 
 📁[SearchUI](https://github.com/Elllin/FE/tree/week4)
 
-📁[VendingMachine](https://github.com/Elllin/FE/tree/vm)
+📁[VendingMachine](https://github.com/Elllin/FE/tree/vm) - 페어로 
