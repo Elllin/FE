@@ -38,3 +38,5 @@ JSON.stringify(this._walletCashArray) === JSON.stringify(walletCashArray);
 
 ## issue관리
 https://github.com/codesquad-memeber-2020/vm-3/issues/1
+
+이슈관리는 처음 해봤는데 기능별로 나누고 브랜치를 그에 맞게 생성해서 기능들을 관리하니까 불편한 점도 많았지만 내가 무엇을 구현해야 하는지 명확하게 알 수 있어서 그 부분은 좋았다. 처음에는 이슈 작성이 어색하고 어떤 단위로 기능을 나누고 작성해야 하는지가 어려웠다.
