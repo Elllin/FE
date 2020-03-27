@@ -8,3 +8,5 @@
 📁[CardUI-FETCHING](https://github.com/Elllin/FE/tree/week3)
 
 📁[SearchUI](https://github.com/Elllin/FE/tree/week4)
+
+📁[VendingMachine](https://github.com/Elllin/FE/tree/vm)
