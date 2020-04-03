@@ -27,7 +27,7 @@ function onToggleToBtn() {
   );
 }
 
-export function onEvent() {
+function onEvent() {
   __$(playControls).on("touchend", ({ target }) => handleControls(target));
   __$(scrubberBtn).on("touchstart", event => handleScrubberBtn(event));
   __$(progressBar).on("touchstart", event => handleProgressBar(event));
@@ -75,7 +75,13 @@ function handleControls(target) {
   return playImageBox();
 }
 
-export function initImageBox() {
+function onToggleToBtn() {
+  return [...playControls.children].forEach(btn =>
+    btn.classList.toggle("on-none")
+  );
+}
+
+function initImageBox() {
   imageBox.imageList = [...imageArea.children];
   imageBox.length = imageBox.imageList.length;
 
@@ -135,3 +141,5 @@ function findImageIndex(position) {
 function pauseImageBox() {
   return cancelAnimationFrame(playBox.play);
 }
+
+export { initImageBox, onEvent };
