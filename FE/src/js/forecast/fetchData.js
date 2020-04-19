@@ -13,8 +13,8 @@ const finished = {};
 export function fetchData(url, func) {
   finished.func = func;
   fetch(url)
-    .then(res => res.json())
-    .then(data => handleData(data));
+    .then((res) => res.json())
+    .then((data) => handleData(data));
 }
 
 function handleData(data) {
@@ -23,11 +23,16 @@ function handleData(data) {
   const forecastGrade = forecastData.informGrade;
   const forecastMaps = [];
 
-  for (const key in forecastData) {
-    if (key.startsWith(imageMapKey)) {
-      forecastMaps.push(forecastData[key]);
-    }
-  }
+  // for (const key in forecastData) {
+  //   if (key.startsWith(imageMapKey)) {
+  //     forecastMaps.push(forecastData[key]);
+  //   }
+  // }
+
+  forecastMaps = Object.keys(forecastData).map((key) => {
+    key.startsWith(imageMapKey);
+    return forecastData[key]
+  });
 
   appendData(forecastContent, contentArea);
   appendData(forecastGrade, gradeArea);
