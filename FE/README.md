@@ -64,6 +64,7 @@
 - 이슈작성을 기능 단위로 세분화 하지 않은 것
 
 중간에 git이 고장나서? 이용할 수가 없다는 핑계로 하나로 다 작성하게 된 것 같다. 다른 팀원들의 글 게시수가 월등히 많은 것을 보고 많이 반성했다. 앞으로는 기능별로 잘 나눠서 작성하도록 그리고 커밋도 꼭 잘 하도록 노력해야겠다.
+[팀프로젝트 회고](https://docs.google.com/spreadsheets/d/1fJFNi1TQ0JLXc9f8Ty3dngoTvGK8dPKeVfhXwNd2_8k/edit#gid=1950847730)
 
 ## 코드리뷰
 [코드리뷰](https://github.com/codesquad-member-2020/dust-10/pull/46)
