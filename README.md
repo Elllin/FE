@@ -70,3 +70,6 @@ class 나누는 것이 익숙치 않아 어려웠다. 크게 slider와 cardMenu 
 
 ## demo
 [데모](https://elllin.github.io/demo/amazon-search/)
+
+## 이미지
+![](./images/carousel.gif)
