@@ -32,3 +32,6 @@
 
    ## 데모
    [데모](https://elllin.github.io/demo/amazon-search/)
+   
+   ## 이미지
+   ![](./images/검색.gif)
