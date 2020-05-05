@@ -67,3 +67,6 @@
 ## 느낀점
 
 class 나누는 것이 익숙치 않아 어려웠다. 크게 slider와 cardMenu 부분으로 나누려 했지만 slider class가 너무 무거워지는 것 같아 sliderBtn구현 부분을 다른 class로 분리했다. 클래스의 핵심 개념을 이해하는 것과 코드에 반영하는 것은 아직까지 못하고 있는 것 같다. 앞으로 class에 대한 이해가 좀 더 필요할 것 같다.
+
+## demo
+[데모](https://elllin.github.io/demo/amazon-search/)
