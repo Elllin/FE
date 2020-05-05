@@ -66,3 +66,6 @@ cardBtns.forEach((btn, index) => {
 ## 느낀점
 
 저번 주에는 Carousel의 기능이라는 작은 부분만을 구현했지만 이번 주는 fetch를 받고 template 작업도 해줘야 했기 때문에 나눈 class와 파일들을 어떻게 조립하고 작동시켜야 할지가 너무 어려웠다. 다른 사람의 코드를 보며 코드 조립? 하는 방법을 배워야겠다고 느꼈다.
+
+## demo
+[데모](https://elllin.github.io/demo/amazon-search/)
