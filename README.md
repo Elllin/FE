@@ -17,4 +17,4 @@
 
 📁[Sidedish](https://github.com/Elllin/react-Sidedish) / react
 
-📁[Airbnb]https://github.com/Elllin/react-airbnb/tree/feature/fe-refactor/FE/airbnb) / react - 페어로 진행
+📁[Airbnb](https://github.com/Elllin/react-airbnb/tree/feature/fe-refactor/FE/airbnb) / react - 페어로 진행
